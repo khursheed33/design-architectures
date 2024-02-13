@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T19:13:56.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Hn667k4u-EXYgUAtNgeO" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T19:29:07.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VUR104jvrt8bHbV57pHw" version="17.1.3" type="github">
   <diagram id="QF4lx2JKRud-zFUETZKr" name="Page-1">
-    <mxGraphModel dx="1038" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,13 +73,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K49C8tr_gWnr8gKEEqWM-25" value="Client" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="20" width="580" height="115" as="geometry" />
+          <mxGeometry x="180" width="580" height="115" as="geometry" />
         </mxCell>
         <mxCell id="K49C8tr_gWnr8gKEEqWM-26" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="230" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K49C8tr_gWnr8gKEEqWM-32" value="&lt;h1&gt;Features&lt;/h1&gt;&lt;div&gt;- Use following: Output parser, Prompt Designer (custom functions),&amp;nbsp;&lt;/div&gt;&lt;div&gt;- LLM Chain should be conversational, should store chat history (top_k = 10)&lt;/div&gt;&lt;div&gt;- The LLM should ask follow-up question by default if the user&#39;s input is not clear.&lt;/div&gt;&lt;div&gt;- Try to override the by default message store functionality of Langchain (create custom store system).&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;- Voice assistant using langchain (Optional)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="940" width="630" height="120" as="geometry" />
+        <mxCell id="K49C8tr_gWnr8gKEEqWM-32" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;Features&lt;/h1&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;- Use following: Output parser, Prompt Designer (custom functions),&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;- LLM Chain should be conversational, should store chat history (top_k = 10)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;- The LLM should ask follow-up question by default if the user&#39;s input is not clear.&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;- Try to override the by default message store functionality of Langchain (create custom store system).&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;- Voice assistant using langchain (Optional)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="760" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
